@@ -17,6 +17,7 @@ validTimers.forEach(time => {
 });
 
 /*
+
 const input = process.argv.slice(2);
 const time = input.map(function(str) {
   // using map() to convert array of strings to numbers
